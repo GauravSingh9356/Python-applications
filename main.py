@@ -7,7 +7,7 @@ import json
 def send_sms(number, message):
     url = 'https://www.fast2sms.com/dev/bulk'
     params = {
-        'authorization': 'ldrDmt9iR7bHzUZshuGqWIVTvKPwC6FLcyM4JBAegxN1QOkfp2lm5WbB4XIkTQ1UMsYFNDL023CjPtRO',
+        'authorization': api_key,
         'sender_id': 'FSTSMS',
         'message': message,
         'language': 'english',
@@ -20,7 +20,7 @@ def send_sms(number, message):
     return dic
 
 
-#send_sms("9305184249", 'this is me!')
+#send_sms("", 'this is me!')
 def btn_click():
     number = textNumber.get()
     msg = textMsg.get('1.0', END)
@@ -37,7 +37,7 @@ root.title('Message Sender')
 # root.iconbitmap('download.png')
 root.geometry('400x600')
 
-image = PhotoImage(file='download.png')
+image = PhotoImage(file='download.png') # path to image file
 
 headingImage = Label(root, image=image)
 headingImage.pack(side=TOP)
