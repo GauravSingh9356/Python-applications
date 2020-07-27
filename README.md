@@ -1,4 +1,4 @@
-# Python-applications
+# Python-Applications
 ## This repo is all about python mini-applications. Basic applications of python module is scripted here. Any basic contribution is welcomed :)  
 
 ### Screenshots of Projects
