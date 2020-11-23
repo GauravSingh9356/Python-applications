@@ -12,12 +12,12 @@
 <img src="Screenshot%20(155).png"/>
   
   <li>
-  Chrome Dino Automater
+  Notepad
 </li>
 <img src="Screenshot%20(17).png"/>
   
   <li>
-  Chrome Dino Automater
+  Notepad
 </li>
 <img src="Screenshot%20(10).png"/>
   
