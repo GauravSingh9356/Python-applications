@@ -11,6 +11,16 @@
 </li>
 <img src="Screenshot%20(155).png"/>
   
+  <li>
+  Chrome Dino Automater
+</li>
+<img src="Screenshot%20(17).png"/>
+  
+  <li>
+  Chrome Dino Automater
+</li>
+<img src="Screenshot%20(10).png"/>
+  
   
   
   </ul>
