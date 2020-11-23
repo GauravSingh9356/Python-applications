@@ -63,7 +63,7 @@ def about():
 
 
 def MessageMe():
-    tmsg.showinfo("Email", "Email - gs935688@gmail.com")
+    tmsg.showinfo("Email", "Email - ur_email")
     reply = tmsg.askyesno("Message", "Do you want to contact now?")
     print(reply)
     if reply:
