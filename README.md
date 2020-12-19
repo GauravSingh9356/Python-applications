@@ -16,11 +16,7 @@
 </li>
 <img src="Screenshot%20(17).png"/>
   
-  <li>
-  
-</li>
-<img src="Screenshot%20(10).png"/>
-
+ 
   <li>
   QR Code Scanner
 </li>
