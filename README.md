@@ -17,12 +17,12 @@
 <img src="Screenshot%20(17).png"/>
   
   <li>
-  Notepad
+  
 </li>
 <img src="Screenshot%20(10).png"/>
 
   <li>
-  Notepad
+  QR Code Scanner
 </li>
 <img src="Screenshot%20(39).png"/>
   
